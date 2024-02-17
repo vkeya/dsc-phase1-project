@@ -59,3 +59,8 @@ Production Companies: Analyze the performance of movies produced by different pr
 Social Media Mentions: Analyze the correlation between social media mentions and movie ratings/popularity.
 
 Awards and Nominations: Explore whether movies nominated for or awarded prestigious awards tend to perform better.
+
+## For More Information
+See the full analysis in the  or review this presentation.
+
+For additional info, contact Alison Peebles Madigan at alison.peeblesmadigan@flatironschool.com
