@@ -1,6 +1,6 @@
 # Phase 1 Project
 
-![Movie Analysis]("C:\Users\Victor Keya\Documents\Flatiron\dsc-phase-1-project\dsc-phase-1-project\images\movie.jpg")
+![Movie Analysis](https://github.com/vkeya/dsc-phase1-project/blob/master/images/movie.jpg)
 
 ## Overview
 
