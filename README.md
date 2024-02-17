@@ -63,4 +63,4 @@ Awards and Nominations: Explore whether movies nominated for or awarded prestigi
 ## For More Information
 See the full analysis in the https://github.com/vkeya/dsc-phase1-project/blob/4808e6cf3963a8cdcdaee1466173da2836c266df/student.ipynb or review this https://github.com/vkeya/dsc-phase1-project/blob/211194be5d346e968332f48383a565c9fa4f6402/presentation.pdf
 
-For additional info, contact Alison Peebles Madigan at victor.keya@student.moringaschool.com
+For additional info, contact Victor Keya at victor.keya@student.moringaschool.com
