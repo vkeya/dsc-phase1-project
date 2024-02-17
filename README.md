@@ -61,6 +61,6 @@ Social Media Mentions: Analyze the correlation between social media mentions and
 Awards and Nominations: Explore whether movies nominated for or awarded prestigious awards tend to perform better.
 
 ## For More Information
-See the full analysis in the https://github.com/vkeya/dsc-phase1-project/blob/4808e6cf3963a8cdcdaee1466173da2836c266df/student.ipynb or review this https://github.com/vkeya/dsc-phase1-project/blob/211194be5d346e968332f48383a565c9fa4f6402/presentation.pdf
+See the full analysis in the https://github.com/vkeya/dsc-phase1-project/blob/4808e6cf3963a8cdcdaee1466173da2836c266df/student.ipynb or review this https://github.com/vkeya/dsc-phase1-project/blob/a99333a8646f8f42e9c94d8cdc223bff6fc8cad3/presentation.pdf
 
 For additional info, contact Victor Keya at victor.keya@student.moringaschool.com
