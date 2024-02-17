@@ -32,7 +32,7 @@ This project uses descriptive analysis, including genre trends over time. Popula
 
 The line graph distribution of genres trends over time shows a clearly constant trend from 2010 to 2019, it was only affected during the covid period where most productions were shut. Drama Movie production increased from the year 2010 showing popularity increase over time.
 
-![Average Rating By Start year]("C:\Users\Victor Keya\Documents\Flatiron\dsc-phase-1-project\dsc-phase-1-project\images\Average_rating_by_start_year.png")
+![Average Rating By Start year](https://github.com/vkeya/dsc-phase1-project/blob/master/images/Average_rating_by_start_year.png)
 
 ## Conclusions
 
