@@ -6,7 +6,7 @@
 
 This project analyzes the popular movie databases around the world. Descriptive analysis of popular movie genres and their average rating shows some genres are rated very high and also the producers involved with these movies also influence the average ratings.
 
-### Business Problem
+## Business Problem
 
 Google sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
